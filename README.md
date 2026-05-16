@@ -7,9 +7,9 @@ My primary interests include AI-powered applications, scalable web platforms, co
 I have developed projects focused on multilingual AI assistance, cybersecurity monitoring, real-time analytics, and intelligent automation systems. Through continuous learning, self-driven development, hackathons, and practical project experience, I actively strengthen my expertise in software engineering, problem-solving, and product development.
 
 I am particularly motivated by opportunities that combine innovation, creativity, and technology to improve accessibility, simplify complex processes, and deliver scalable digital experiences.
-```
 
-```
+
+
 ## Skills & Technologies
 
 ### Programming Languages
