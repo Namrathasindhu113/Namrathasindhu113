@@ -1,7 +1,3 @@
-Then your README should look like a professional developer profile README — clean, personal, technical, and portfolio-focused.
-
-Use this version instead:
-
 <div align="center">
 
 # Namratha Sindhu
